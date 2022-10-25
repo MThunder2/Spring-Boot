@@ -31,10 +31,5 @@
 			<type>1</type>
 			<location>C:/Users/merce/OneDrive/Documents/Promineo/Week 13/Spring-Boot-Course-Student-Resources-main/Files/docker-compose.yml</location>
 		</link>
-		<link>
-			<name>src/test/resources/flyway</name>
-			<type>2</type>
-			<location>C:/Users/merce/OneDrive/Documents/Promineo/Week 13/Spring-Boot-Course-Student-Resources-main/Files/src/test/resources/flyway</location>
-		</link>
 	</linkedResources>
 </projectDescription>
