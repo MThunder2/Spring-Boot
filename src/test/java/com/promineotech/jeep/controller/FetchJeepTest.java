@@ -118,7 +118,7 @@ class FetchJeepTest {
 
 			assertErrorMessageValid(error, HttpStatus.BAD_REQUEST);
 		}
-
+	}
 		static Stream<Arguments> parametersForInvalidInput() {
 			//@formatter:off
 			return Stream.of(
@@ -211,4 +211,4 @@ class FetchJeepTest {
 
 	}
 
-}
+
